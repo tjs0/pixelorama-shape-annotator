@@ -1,0 +1,8 @@
+config_version=5
+
+[application]
+config/name="Pixelorama Shape Annotator (dev)"
+config/features=PackedStringArray("4.3")
+
+[editor_plugins]
+enabled=PackedStringArray("res://addons/gut/plugin.cfg")

@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://src/Tools/BaseTool.gd" id="1_base"]
+
+[node name="BaseTool" type="VBoxContainer"]
+script = ExtResource("1_base")

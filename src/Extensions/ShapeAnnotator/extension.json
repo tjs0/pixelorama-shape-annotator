@@ -1,0 +1,10 @@
+{
+  "name": "ShapeAnnotator",
+  "display_name": "Shape Annotator",
+  "description": "Draw rect/circle/capsule shape annotations and export them as a JSON atlas sidecar.",
+  "author": "TERL",
+  "version": "0.1.0",
+  "license": "MIT",
+  "supported_api_versions": [8],
+  "nodes": ["Main.tscn"]
+}
